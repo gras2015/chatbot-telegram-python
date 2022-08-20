@@ -1,6 +1,7 @@
 import telebot
 from telebot import types
-bot = telebot.TeleBot("5440445076:AAEotg-Wgisf2lBR5vc68L3SB40GCT6aOl4")
+bot = telebot.TeleBot("TOKEN API")
+
 
 name = ''
 surname = ''
